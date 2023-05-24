@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pankaj Singh Sirari</h1>
-<h3 align="center">An ardent Full Stack Developer, pursuing BTECH CSE. Feel free to checkout my repos and connect with me.</h3>
+<h3 align="center">An ardent Full Stack Developer, pursuing BTECH CSE. Feel free to checkout my repos and Connect with me.</h3>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsirari222&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsirari222" /> </p>
 
 <br/>
-- 📫 Reach me at : **pankajsirari222@gmail.com**
+- 📫 Reach me at : pankajsirari222@gmail.com
 <br/>
 
 <h3 align="left">Connect with me:</h3>
