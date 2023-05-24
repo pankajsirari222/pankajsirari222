@@ -9,7 +9,8 @@
 </h3>
 <br/>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZhOGI1NDY1NTc3MmE2YTdiYTBmN2EyZjIxNGM4OTFmODA2NjU1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" >
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI5ZjAyYjYyZWQ3YjMxMmI4MjUyYzA5YzJlOTg5YjA4MjlhZTdkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300px" >
+<!-- <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZhOGI1NDY1NTc3MmE2YTdiYTBmN2EyZjIxNGM4OTFmODA2NjU1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" > -->
 
 - 🔭 I’m currently working on Portfolio Website.
 - 🌱 I’m currently learning MERN.
