@@ -2,11 +2,7 @@
 
 <h2> 🚀 About Me </h2>
 
-<!-- <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZhOGI1NDY1NTc3MmE2YTdiYTBmN2EyZjIxNGM4OTFmODA2NjU1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" > -->
-
-![Animation](./gifs/profile.svg)
-
-<h3 align="left">
+<h3 align="center">
   An ardent Full Stack Developer, pursuing BTECH CSE.
   <br/> <br/>
   Feel free to checkout my repos and Connect with me.

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="0 0 450 450">
-  <image href="frame1.png" width="450" height="450" x="0" y="0">
-    <animate dur="1s" attributeName="opacity" from="1" to="0" repeatCount="indefinite" />
-  </image>
-  <image href="frame2.png" width="450" height="450" x="0" y="0">
-    <animate dur="1s" attributeName="opacity" from="0" to="1" repeatCount="indefinite" />
-  </image>
-</svg>
